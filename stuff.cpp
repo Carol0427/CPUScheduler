@@ -1,7 +1,8 @@
 #include <iostream>
 #include <vector>
-//#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #include <cmath>
+
 using namespace std;
 
 // CPP program for array
